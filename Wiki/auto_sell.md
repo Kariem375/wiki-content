@@ -14,7 +14,7 @@ The Item Bank combined with Auto-Sell lets you **passively sell resources on the
 ### Step 1 — Open the Bank
 Type `/s` in chat → go to **Stock Market** tab → click **BANK** in the left sidebar.
 
-![Bank tab in Stock Market](assets/auto_sell/bank-tab.png)
+![Bank tab in Stock Market](../assets/auto_sell/bank-tab.png)
 
 ---
 
@@ -31,14 +31,14 @@ Navigate back to the **Stock Market** and search for the item you just deposited
 ### Step 4 — Set Your Auto-Sell Price
 Click the item to open **Stock Item Details** → find the **AUTO SELL** price field → enter your desired price per unit and confirm.
 
-![Auto-sell price field](assets/auto_sell/auto-sell.png)
+![Auto-sell price field](../assets/auto_sell/auto-sell.png)
 
 ---
 
 ### Step 5 — Confirmation
 You'll see a popup confirming it worked:
 
-![Confirmation popup](assets/auto_sell/confirmation.png)
+![Confirmation popup](../assets/auto_sell/confirmation.png)
 
 ---
 
