@@ -1,4 +1,4 @@
-# 📦 Item Bank & Auto-Sell Guide
+# Item Bank & Auto-Sell Guide
 
 > **Requirement:** You must have the **Item Bank perk** unlocked before this feature is available.
 
