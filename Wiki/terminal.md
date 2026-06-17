@@ -1,5 +1,3 @@
-![](../assets/Terminal/Header.png)
-
 ## Terminal
 The Terminal is a powerful and interactive tool that allows players to manage all of their base resources from a single location. Rather than being a simple menu or on-screen button, it functions as a fully placeable item that can be installed inside your base, creating a much more immersive and engaging experience.
 
