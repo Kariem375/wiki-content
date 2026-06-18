@@ -1,0 +1,73 @@
+{
+  "hiddenPages": ["readme"],
+  "sections": [
+    {
+      "name": "Wiki",
+      "slug": "wiki",
+      "categories": [
+        {
+          "name": "Start Here",
+          "pages": [
+            "overview",
+            "suggestion-and-ideas"
+          ]
+        },
+        {
+          "name": "Guides",
+          "pages": [
+            "beginner-guide",
+            "best-rp-method",
+            "deep-sea-rework",
+            "food-and-meal-system",
+            "progression-levels",
+            "support-tickets",
+            "virtual-quarry"
+          ]
+        },
+        {
+          "name": "Quests & Events",
+          "pages": [
+            "quests",
+            "tackling-bradleys",
+            "tackling-helis",
+            "tackling-raiding",
+            "world-events"
+          ]
+        },
+        {
+          "name": "Skill Tree (/st)",
+          "pages": [
+            "skills-setgenes-guide",
+            "skills"
+          ]
+        },
+        {
+          "name": "Prestige Perks",
+          "pages": [
+            "auto-sell",
+            "terminal"
+          ]
+        },
+        {
+          "name": "Custom Items",
+          "pages": [
+            "armor-inserts",
+            "legendary-sets",
+            "legendary-tools",
+            "legendary-weapons"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Contribute",
+      "slug": "contribute",
+      "categories": [
+        {
+          "name": "Contribute",
+          "pages": ["contribute"]
+        }
+      ]
+    }
+  ]
+}
