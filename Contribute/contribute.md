@@ -15,9 +15,28 @@ Use this page to submit content updates to the wiki through GitHub pull requests
 
 ## How Navigation Works
 
-- Top-level folders in the repo become top-level navigation sections.
-- Markdown files inside a folder become side navigation pages for that section.
-- You can create new folders at any time to add new top-level sections.
+The wiki menu is controlled by `navigation.json` at the root of the wiki-content repo. Page files are discovered automatically, but **they will not appear in the menu until you add them to `navigation.json`**.
+
+When adding a new page:
+
+1. Add your `.md` file to the repo (for example `Wiki/my-new-page.md`).
+2. Open `navigation.json` and add the page slug to the correct category's `pages` array.
+3. Use the filename slug (for example `my-new-page`) or the file path (for example `Wiki/my-new-page.md`).
+4. Order pages in the array as you want them to appear in the side menu.
+
+Example category entry:
+
+```json
+{
+  "name": "Guides",
+  "pages": [
+    "beginner-guide",
+    "my-new-page"
+  ]
+}
+```
+
+To hide a page from the menu without deleting it, add its slug to the `hiddenPages` array in `navigation.json`.
 
 ## Quick Formatting Tips
 
@@ -25,7 +44,3 @@ Use this page to submit content updates to the wiki through GitHub pull requests
 - Use one `# Title` at the top of each markdown page.
 - Use headings and bullet points to keep pages readable.
 - Keep content accurate and concise.
-- Youtube embeds can be added with pixel width, for example: `@[youtube](https://www.youtube.com/watch?v=TUYqRMhPyTw){width=960 height=540}`
-- Or with percentage width: `@[youtube](https://www.youtube.com/watch?v=TUYqRMhPyTw{width=80%}`
-
-@[youtube](https://www.youtube.com/watch?v=TUYqRMhPyTw){width=960 height=540}
