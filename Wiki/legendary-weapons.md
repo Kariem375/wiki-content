@@ -17,3 +17,6 @@ These are all custom-made weapons.
 | DoubleBoom          | Double barrel shotgun that shoots rockets                         | Shotgun shells and Rockets     | ![DoubleBoom](/api/lookup/skins/2935979924/image)        |
 | Hydra’s Stolen Wand | Shoots MLRS                                                       | MLRS                           | ![Hydra’s Stolen Wand]()                                                          |
 | Huff-N-Puff         | Throws darts that decimate bradleys                               | HVs and Darts                  | ![Huff-N-Puff]()                                                                  |
+| Anti-Material Sniper | 1,000% dmg to turrets                                            | explosive 5.56 Rigle ammo      | ![Anti-Material Sniper]()                                                         |
+| THE KILLSWITCH'R     | +75% dmg to Harb boss                                            | 5.56 Rigle ammo                | ![THE KILLSWITCH'R]()                                                             |
+
